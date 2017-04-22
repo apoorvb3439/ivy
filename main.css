@@ -1,0 +1,57 @@
+#sidebar,#messages,#newmessage{
+text-align: center;
+background-color: powderblue;
+color: black;
+padding-top: 7px;
+padding-bottom: 7px;
+
+
+}
+#messages{
+  font-size: 15px;
+  font-family: sans-serif;
+  background-color: black;
+  color: white;
+  border-color: white;
+  border-style: dotted;
+}
+#divform{
+
+}
+#newmessage{
+  border-color: white;
+
+}
+#Chathere{
+color: white;
+}
+
+#foot{
+margin-top: 20px;
+display:inline-block;
+}
+
+#comment{
+  margin-top: 5px;
+  margin-bottom: 5px;
+
+
+}
+#wraper{
+  text-align: center;
+background-color: black;
+color: white;
+
+#butt{
+margin-top: 7px;
+
+
+}
+
+
+}
+#b,#jumbo{
+
+background-image: url("http://p.motionelements.com/stock-video/science-technology/me2205915-technology-network-loop-background-hd-a0120.jpg");
+
+}
